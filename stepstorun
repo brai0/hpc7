@@ -1,0 +1,9 @@
+C/C++
+General ma add include x86
+
+Linker
+General ma add library
+input msmpi.lib
+
+to run
+mpiexec -n 4 "Path to exe file"
